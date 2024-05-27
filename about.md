@@ -6,8 +6,9 @@ permalink: /about/
 
 <p align="center">
     
-    <a href="https://prashkmr.github.io/files/cv.pdf"></a>
+    <a href="https://drive.google.com/file/d/1kIWNFsBxidcZXeanLyl3Wt39C09fRAKN/view?usp=sharing">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
+    </a>
 </p>
 
 
