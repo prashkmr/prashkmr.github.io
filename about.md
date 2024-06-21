@@ -30,7 +30,7 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 
 # <center>News</center>
 
-**June 2024: Our Paper  [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://kshitijbhat.github.io/glidr/) invited and presented at the [1st Workshop on Topological Deep Learning for Computer Vision](https://tdl4cv.github.io/) **
+**June 2024: Our Paper  [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://kshitijbhat.github.io/glidr/) invited and presented at the [1st Workshop on Topological Deep Learning for Computer Vision](https://tdl4cv.github.io/)**
 
 **Feb 2024: Our Paper on Topological Deep Learning on Sparse Point clouds accepted at CVPR-2024**
 
