@@ -33,21 +33,21 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 # <center>Current Research and Collaborations</center>
 
 **1. Calibration of Image retrieval systems for queries with ambiguous negations (with Prof. [Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/)  
-            Ambiguous queries - especially multiple negation are challenging for retrieval systems.  
-            Calibration of retrieval outcomes  to balance multiple alternative outcomes as equally likely.**
+          +  Ambiguous queries - especially multiple negation are challenging for retrieval systems.  
+          +  Calibration of retrieval outcomes  to balance multiple alternative outcomes as equally likely.**
 
 **2. Topological Alignment of VLMs and 3D foundation models with the real world  
-            Study of topological correctness of VLM-generated images and 3D foundation models generated point clouds, w.r.t the real world.  
-            Use topologically invariant properties to align these foundation models to a realistic representation of the world.**
+          +  Study of topological correctness of VLM-generated images and 3D foundation models generated point clouds, w.r.t the real world.  
+          +  Use topologically invariant properties to align these foundation models to a realistic representation of the world.**
 
 **3. Investigating the use of Code-LLMs to solve NP-hard combinatorial problems  
-            Neural approaches require large amounts of ground truth data, which is NP-hard to compute, operate as black boxes offering limited interpretability. and also lack cross-domain generalization.  
-            Design self-evolutionalry approaches for generating programs to solve NP-hard problems including end-to-end interpretability with grund truth supervision.  
-            Optimizing the order of LLM calls and balancing use of queries**
+          +  Neural approaches require large amounts of ground truth data, which is NP-hard to compute, operate as black boxes offering limited interpretability. and also lack cross-domain generalization.  
+          +  Design self-evolutionalry approaches for generating programs to solve NP-hard problems including end-to-end interpretability with grund truth supervision.  
+          +  Optimizing the order of LLM calls and balancing use of queries**
 
 **2. Unsupervised User-persona groups discovery using Reinforcement Learning Based Human Feedback (with Prof. [Sayan Ranu]((http://www.cse.iitd.ac.in/~sayan/)))  
-            Unsupervised persona identification for e-commerce platforms.  
-            Develop a RLHF reward model to learn implicit persona information via conformal product/category/super-category/subcategory pair agreement.**
+          +  Unsupervised persona identification for e-commerce platforms.  
+          +  Develop a RLHF reward model to learn implicit persona information via conformal product/category/super-category/subcategory pair agreement.**
 
 
 
