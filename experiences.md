@@ -9,7 +9,7 @@ A selection of my <b>experiences</b>.
 </p>
 
 ## <center>Employments</center>
-- **Indian Institute of Technology, Delhi**, April 2019 - Sept 2020
+- **Indian Institute of Technology, Delhi**, March 2025 - Current
   * **Project Scientisit**, ANSK School of IT
 <br/><br/>
 - **Indian Institute of Science, Bengaluru**, April 2019 - Sept 2020
