@@ -19,7 +19,7 @@ I recently completed my Ph.D. under the supervision of Prof. [Srikanta Bedathur]
 
 Research Interests:
 
-   **1. Multimodal Learning - Vision Language Modes**
+   **1. Multimodal Learning - Vision Language Modes**  
    **1. Generative AI - Code LLMs, VLMs**   
    **1. Topological Deep Learning**   
    **2. Copmuter Vision**   
