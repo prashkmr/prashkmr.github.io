@@ -32,7 +32,7 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 
 # <center>Current Research and Collaborations</center>
 
-**1. Calibration of Image retrieval systems for queries with ambiguous negations (with Prof. [Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/)**
+**1. Calibration of Image retrieval systems for queries with ambiguous negations (with Prof. [Srikanta Bedathur](http://www.cse.iitd.ac.in/~srikanta/)**  
           +  Ambiguous queries - especially multiple negation are challenging for retrieval systems.  
           +  Calibration of retrieval outcomes  to balance multiple alternative outcomes as equally likely.
 
@@ -45,7 +45,7 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
           +  Design self-evolutionalry approaches for generating programs to solve NP-hard problems including end-to-end interpretability with grund truth supervision.  
           +  Optimizing the order of LLM calls and balancing use of queries**
 
-**2. Unsupervised User-persona groups discovery using Reinforcement Learning Based Human Feedback (with Prof. [Sayan Ranu]((http://www.cse.iitd.ac.in/~sayan/)))  
+**2. Unsupervised User-persona groups discovery using Reinforcement Learning Based Human Feedback (with Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/)**    
           +  Unsupervised persona identification for e-commerce platforms.  
           +  Develop a RLHF reward model to learn implicit persona information via conformal product/category/super-category/subcategory pair agreement.**
 
