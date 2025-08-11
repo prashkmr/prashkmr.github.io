@@ -60,6 +60,9 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 
 **June 2024: Our Paper  [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://kshitijbhat.github.io/glidr/) invited and presented at the [1st Workshop on Topological Deep Learning for Computer Vision](https://tdl4cv.github.io/) at CVPR-24**
 
+**May 2024:**:**Our paper on Label-less Segmentation for LiDAR point clouds in constrained settings [MOVES: Movable and moving LiDAR scene segmentation in label-free settings using static reconstruction](https://www.sciencedirect.com/science/article/pii/S0031320324004023) - [Differentiable SLAM Helps Deep
+Learning-based LiDAR Perception Tasks](https://papers.bmvc2023.org/0822.pdf)  accepted at Pattern Recognition, Volume 155, November 2024**
+
 **Feb 2024: Our Paper on Topological Deep Learning on Sparse Point clouds - [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://kshitijbhat.github.io/glidr/)  accepted at CVPR-2024**
 
 **Nov 2023:**:**Our paper on Differentiable SLAM for end-to-end-learning pipelines - [Differentiable SLAM Helps Deep
