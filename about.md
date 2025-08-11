@@ -32,7 +32,7 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 
 # <center>Current Research and Collaborations</center>
 
-**1. Calibration of Image retrieval systems for queries with ambiguous negations (with Prof. [Srikanta Bedathur]((http://www.cse.iitd.ac.in/~srikanta/)))
+**1. Calibration of Image retrieval systems for queries with ambiguous negations (with Prof. [Srikanta Bedathur]((http://www.cse.iitd.ac.in/~srikanta/))) <\br>
         * Ambiguous queries - especially multiple negation are challenging for retrieval systems.
         * Calibration of retrieval outcomes  to balance multiple alternative outcomes as equally likely.**
 
@@ -54,7 +54,7 @@ Prior to joining IIT Delhi, I worked as a Research Associate in the [Machine lea
 
 # <center>News</center>
 
-**June 2025: Our work on Investigating and Characterizing Real-World Point Clouds w.r.t. Topological Properties - [Revisiting Point Cloud Completion: Are We Ready For The Real-World?](https://arxiv.org/pdf/2411.17580), in collabiation with the University of Antwerp has been accepted at ICCV - 2025**
+**June 2025: Our work on Investigating and Characterizing Real-World Point Clouds w.r.t. Topological Properties - [Revisiting Point Cloud Completion: Are We Ready For The Real-World?](https://arxiv.org/pdf/2411.17580), in collabaration with the University of Antwerp has been accepted at ICCV - 2025**
 
 **May 2025: Our work on Real World Generalizable Persona Indentification - [Persona Identification in E-Commerce with Scarce Labels and In-Context Graph Learning](https://dl.acm.org/doi/10.1145/3711896.3737080 in collaboration with Prof. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/), Prof. [Abhijnan Chakraborty](https://cse.iitkgp.ac.in/~abhijnan/) and FLipkart India Pvt. Ltd. has been accepted at KDD Research Track - 2025**
 
