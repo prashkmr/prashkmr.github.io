@@ -22,7 +22,7 @@ Research Interests:
    **1. Multimodal Learning - Vision Language Modes**  
    **1. Generative AI - Code LLMs, VLMs**   
    **1. Topological Deep Learning**   
-   **2. Copmuter Vision**   
+   **2. Computer Vision**   
    **3. Point Clouds**   
    **4. Graphs**
  <br>
